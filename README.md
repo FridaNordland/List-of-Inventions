@@ -1,4 +1,4 @@
-# List-of-Innovations
+# List-of-Inventions
 In this repository, I have listed my previous inventions for the PhD Application at the Complexity Science Hub in Vienna
 
 ![logo](https://github.com/curated-intel/CTI-fundamentals/blob/main/ci-logo.png)                                      
