@@ -4,15 +4,15 @@ In this repository, I have listed my previous inventions for the PhD Application
 ![logo](https://github.com/curated-intel/CTI-fundamentals/blob/main/ci-logo.png)                                      
 
 # List of Inventions
-A collection of essential resources related to cyber threat intelligence theory.
+
 
 ### `Scientific Publications`
 I include these publications to demonstrate that I am familiar with the process of writing and publishing academic research. Both papers are collaborative pieces, which further reflect common academic practice of teamwork and collaborative creative processes.
 
 | Author | Description | Resource URL |
 | --- | --- | --- |
-| Frida von Zahn, Lawrence Schätzle  | I include this publication because it is the first paper that I presented at an acamdeic conference and that I have now submitted for an academic journal. I wrote it together with a colleague, who did conducted the interviews and focus group sessions together with me. |https://irspm2024.exordo.com/files/papers/814/final_draft/Sharing_is_Caring_Paper_vonZahn_Schaetzle_IRSPM_2024.pdf|
-| [The US Central Intelligence Agency](https://en.wikipedia.org/wiki/Central_Intelligence_Agency) | This primer highlights structured analytic techniques — some widely used in the private sector and academia, some unique to the intelligence profession | [Tradecraft-Primer-apr09.pdf](https://www.cia.gov/static/955180a45afe3f5013772c313b16face/Tradecraft-Primer-apr09.pdf) |
+| Frida von Zahn, Lawrence Schätzle  | This is the first paper that I presented at an acamdeic conference and that I have now submitted for an academic journal. I wrote it together with a colleague, who conducted the interviews and focus group sessions together with me. This made the writing process really fruitful as we had a shared understanding of our empirical material. |https://irspm2024.exordo.com/files/papers/814/final_draft/Sharing_is_Caring_Paper_vonZahn_Schaetzle_IRSPM_2024.pdf|
+| Henrik Scheller, Christian Raffer, Frida von Zahn, Oliver Peters | This paper is written in German, but it was the first paper I ever wrote at my current job. I was responsible for the section challenges on conflicts, which was a considerable challenge for me since the co-authors are all experts in municipal finance, and I am glad to have learned much about the field in the writing process | https://difu.de/publikationen/2023/sustainable-finance-fuer-kommunen |
 | [The US Central Intelligence Agency](https://en.wikipedia.org/wiki/Central_Intelligence_Agency) | The psychology of intelligence analysis by the CIA’s Center for the Study of Intelligence | [Psychology_of_Intelligence_Analysis.pdf](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf) |
 | [iSIGHT Partners](https://www.linkedin.com/company/isight-partners) | The first definitive guide to cyber threat intelligence ever produced | [cti-guide.pdf](https://cryptome.org/2015/09/cti-guide.pdf) |
 | [Recorded Future](https://recordedfuture.com)| The traditional intelligence life cycle tailored to threat intelligence embedded in modern security operations| [What the 6 Phases of the Threat Intelligence Lifecycle Mean for Your Team](https://web.archive.org/web/20210330021716/https://www.recordedfuture.com/threat-intelligence-lifecycle-phases/) |
